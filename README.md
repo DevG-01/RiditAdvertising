@@ -1,2 +1,1 @@
 # RiditAdvertising
-Advertisement agency website
